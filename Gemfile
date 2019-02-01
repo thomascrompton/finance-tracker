@@ -13,6 +13,10 @@ gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 # Include jquery
 gem 'jquery-rails'
+# Use stock_quote gem for Stock model
+gem 'stock_quote'
+# Use hirb to view data easily
+gem 'hirb'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
