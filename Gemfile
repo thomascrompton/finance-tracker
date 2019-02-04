@@ -15,6 +15,8 @@ gem 'devise-bootstrap-views'
 gem 'jquery-rails'
 # Use stock_quote gem for Stock model
 gem 'stock_quote'
+# Use font-awsome for fonts
+gem 'font-awesome-rails'
 # Use hirb to view data easily
 gem 'hirb'
 # Use Puma as the app server
